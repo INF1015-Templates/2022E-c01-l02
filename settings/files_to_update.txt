@@ -3,6 +3,9 @@ settings/variables.txt
 
 README.md
 
-Exercises/main.cpp
-Exercises/Arguments.hpp
-Exercises/Arguments.cpp
+Exercises/bibliotheque_cours/bibliotheque_cours.cpp
+Exercises/bibliotheque_cours/verification_allocation.cpp
+Exercises/Designer.hpp
+Exercises/Jeu.hpp
+Exercices/ListeDesigners.hpp
+Exercices/ListeJeux.hpp
